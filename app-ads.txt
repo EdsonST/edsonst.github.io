@@ -1,0 +1,4 @@
+# app-ads.txt da ES Studio
+# Quando a conta AdMob estiver criada, substitua a linha abaixo pela linha que o AdMob mostrar
+# (Apps > Todos os apps > app-ads.txt). O formato é este:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
